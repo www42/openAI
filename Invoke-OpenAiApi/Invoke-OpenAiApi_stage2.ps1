@@ -13,7 +13,7 @@ function Invoke-OpenAiApi {
 .EXAMPLE
     Invoke-OpenAiApi -Text 'This is a test.'
 .EXAMPLE
-    Invoke-OpenAiApi -Text 'Was ist der Sinn des Labens?' -MaxTokens 50 -Temperature .3
+    Invoke-OpenAiApi -Text 'Was ist der tiefere Sinn des Labenz?' -MaxTokens 50 -Temperature .3
 #>
 
     param(
