@@ -45,7 +45,7 @@ function Invoke-OpenAiApi {
         -Headers $Headers `
         -Body $Body
 
-    ($Response.Content | ConvertFrom-Json -Depth 3).choices.text.trim() 
+    ($Response.Content | ConvertFrom-Json).choices.text.trim() 
 
 }
 

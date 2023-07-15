@@ -92,7 +92,7 @@ function Invoke-OpenAiApi {
 .EXAMPLE
     Invoke-OpenAiApi -Text 'This is a test.'
 .EXAMPLE
-    Invoke-OpenAiApi -Text 'Was ist der Sinn des Labens?' -MaxTokens 50 -Temperature .3
+    Invoke-OpenAiApi -Text 'Was ist der tiefere Sinn des Labenz?' -MaxTokens 50 -Temperature .3
 #>
 
     param(
@@ -124,7 +124,7 @@ function Invoke-OpenAiApi {
         -Headers $Headers `
         -Body $Body
 
-    ($Response.Content | ConvertFrom-Json -Depth 3).choices.text.trim() 
+    ($Response.Content | ConvertFrom-Json).choices.text.trim() 
 
 }
 ```
