@@ -51,6 +51,6 @@ function Invoke-OpenAiApi {
 
 
 Invoke-OpenAiApi -Text 'This is a test.'
-Invoke-OpenAiApi -Text 'Was ist der Sinn des Labens?' -MaxTokens 700
+Invoke-OpenAiApi -Text 'Was ist der Sinn des Labenz?' -MaxTokens 700
 
 Get-Help Invoke-OpenAiApi -Full
