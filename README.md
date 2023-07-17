@@ -1,5 +1,3 @@
-# openAI
-
 ## Useful Links
 
 [Azure Cognitive Services documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/)
