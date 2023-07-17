@@ -8,9 +8,13 @@
 
 [Introducing LLaMA: A foundational, 65-billion-parameter large language model (Meta AI)](https://ai.meta.com/blog/large-language-model-llama-meta-ai/)
 
+[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
+
 [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 
 [Run LLaMA and Alpaca on your computer.](https://github.com/cocktailpeanut/dalai)
+
+[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
 
 [What Is ChatGPT Doing … and Why Does It Work? by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
