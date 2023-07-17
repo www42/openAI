@@ -6,6 +6,12 @@
 
 [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 
+[Introducing LLaMA: A foundational, 65-billion-parameter large language model (Meta AI)](https://ai.meta.com/blog/large-language-model-llama-meta-ai/)
+
+[Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+
+[Run LLaMA and Alpaca on your computer.](https://github.com/cocktailpeanut/dalai)
+
 [What Is ChatGPT Doing … and Why Does It Work? by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 [Wolfram U Machine Learning Classes](https://www.wolfram.com/wolfram-u/courses/catalog/?topic=machine-learning)
