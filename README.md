@@ -25,3 +25,7 @@
 [about_Comment_Based_Help](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_comment_based_help)
 
 [Der tiefere Sinn des Labenz](https://de.wikipedia.org/wiki/Der_tiefere_Sinn_des_Labenz)
+
+[Azure Cognitive Search documentation](https://learn.microsoft.com/en-us/azure/search/)
+
+[Azure Search OpeAI Demo](https://github.com/Azure-Samples/azure-search-openai-demo/)
