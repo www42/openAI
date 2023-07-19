@@ -9,6 +9,7 @@ az group list --query "[].{Name:name,Location:location}" --output table
 $rgName = 'RG-OpenAI'
 $location = 'westeurope'
 
+az cognitiveservices account list --query "[].{Name:name,Kind:kind,resourceGroup:resourceGroup,Location:location,SKU:sku.name,Key1:key1,Key2:key2,Endpoint:properties.endpoint}" --output table
 az cognitiveservices account list --resource-group $rgName --query "[].{Name:name,Kind:kind,Location:location,SKU:sku.name,Key1:key1,Key2:key2,Endpoint:properties.endpoint}" --output table
 $azureOpenAiAccountName = 'openAI-69118'
 
