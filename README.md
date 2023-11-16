@@ -1,10 +1,5 @@
+# OpenAI und ChatGPT - Neuer Support in der IT?
 
-[Get the presentation](pdf)
-
-[RAG Beispiel App](https://app-backend-64k2drdnqbjso.azurewebsites.net/)
-
-
-[Benefit-100.pdf](https://st64k2drdnqbjso.blob.core.windows.net/content/Northwind_Health_Plus_Benefits_Details-100.pdf?sp=r&st=2023-10-06T09:49:05Z&se=2023-10-06T17:49:05Z&spr=https&sv=2022-11-02&sr=b&sig=yJzzm5tNt0G7gAM%2BdyVZSNGavvZVSXoPuqoG2YNuJ58%3D)
 
 ## Useful Links
 
