@@ -1,6 +1,8 @@
 # OpenAI und ChatGPT - Neuer Support in der IT?
 
 
+[Get the presentation](pdf)
+
 ## Useful Links
 
 [Azure Cognitive Services documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/)
