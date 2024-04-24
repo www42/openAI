@@ -1,6 +1,5 @@
 # OpenAI und ChatGPT - Neuer Support in der IT?
 
-[Get the presentation](pdf/)
 
 ## Useful Links
 
