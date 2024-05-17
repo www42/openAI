@@ -1,9 +1,9 @@
-# OpenAI und ChatGPT - Neuer Support in der IT?
+# Einführung in ChatGPT und DZ Chat
 
+
+[Grab the presentation](pdf)
 
 ## Useful Links
-
-[Azure Cognitive Services documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/)
 
 [3Blue1Brown youtube channel](https://www.youtube.com/@3blue1brown)
 
