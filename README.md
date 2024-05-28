@@ -1,7 +1,5 @@
-# Einführung in ChatGPT und DZ Chat
+# OpenAI
 
-
-[Grab the presentation](pdf)
 
 ## Useful Links
 
