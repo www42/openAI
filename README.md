@@ -3,9 +3,17 @@
 [comment]: <> (Dies ist ein Kommentar, der möglicherweise nicht überall funktioniert.)
 
 [comment]: <> (
-    ## AI-050
+    Das ist ein Kommentar, der sich über mehrere Zeilen erstreckt.
+    Das ist noch eine Zeile.
+    ## Überschriften sind möglich
+    - Punkt 1
+    - Punkt 2 alles ok
+    Aber keine *Leerzeilen*!
+    Und keine keine **Links**!
+)
 
     [Develop Generative AI solutions with Azure OpenAI Service - Learning Path](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+
 
     - [Module 1 - Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/)
     - [Module 2 - Build natural language solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/build-language-solution-azure-openai/)
@@ -15,7 +23,7 @@
     - [Module 6 - Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/use-own-data-azure-openai/)
     - [Module 7 - Fundamentals of Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)
 
-)
+
 
 
 
