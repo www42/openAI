@@ -40,13 +40,15 @@
 
 ## Wie funktioniert das alles?
 
-[3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) by Grant Sanderson. Großartige Visualisierung von Neuronalen Netzen, und überhaupt ein großartiger YouTube Channel.
+[3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) Videos by Grant Sanderson. Großartige Visualisierung von Neuronalen Netzen, und überhaupt ein großartiger YouTube Channel.
 
 [MIT Introduction to Deep Learning](http://introtodeeplearning.com/) Ganze Vorlesungsreihe des MIT zu Deep Learning.
 
 [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) by Google authors. Das Original Paper für die Transformer Architektur.
 
-[What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram. Ein spannendes Buch, auch ohne Mathematica Kentnisse sehr interessant.
+[What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) Book by Stephen Wolfram. Spannend, auch ohne Mathematica Kentnisse.
+
+[The moment we stopped understanding AI](https://www.youtube.com/watch?v=UZDiGooFs54) Video by Stephen Welch. Das muß ich mir noch einmal anschauen.
 
 
 ## Microsoft
