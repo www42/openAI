@@ -1,5 +1,12 @@
-# OpenAI
+# MS-4005
 
+[Learning Path 1 - Get started with Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/)
+
+- Video [The Copilot System: Explained by Microsoft](https://www.youtube.com/watch?v=E5g20qmeKpg)
+- Video [Plugins for Microsoft 365 Copilot](https://www.youtube.com/watch?v=kMXtwtdryKY)
+
+
+[Learning Path 2 - Craft effective prompts for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/)
 
 
 ## Chatbots
@@ -25,6 +32,8 @@
 [Ollama](https://ollama.com/) Für zu Hause.
 
 [LMSYS Chatbot Arena](https://chat.lmsys.org/?leaderboard) Hier kannst Du mit den Modellen bewerten.
+
+[Rise of A.I. Large Language Models](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/) Information is beautiful
 
 
 
@@ -64,6 +73,7 @@
 
 [Microsoft Copilot for Microsoft 365 overview](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview)
 
+[RAG, semantic search, embedding, vector... Find out what the terms used with Generative AI mean!](https://www.youtube.com/watch?v=orLGv2LgWDE) by John Savill. YouTube Video.
 
 
 
@@ -77,8 +87,7 @@
 
 [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
 
-[Das muss ich mir noch anschauen](https://pages.awscloud.com/GLOBAL_other_T2_traincert_150_Learn-GenerativeAI-for-Developers-Season1-2024-reg.html)
-
+<!-- [Das muss ich mir noch anschauen](https://pages.awscloud.com/GLOBAL_other_T2_traincert_150_Learn-GenerativeAI-for-Developers-Season1-2024-reg.html) -->
 
 
 
