@@ -1,5 +1,7 @@
 # OpenAI
 
+[comment]: <> (Dies ist ein Kommentar, der möglicherweise nicht überall funktioniert.)
+
 
 ## Useful Links
 
