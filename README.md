@@ -1,5 +1,12 @@
 # MS-4005
 
+[Grab your Badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X2YPYM)
+
+[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?95F767161212439784)
+
+---
+
+
 [Learning Path 1 - Get started with Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/)
 
 - Video [The Copilot System: Explained by Microsoft](https://www.youtube.com/watch?v=E5g20qmeKpg)
