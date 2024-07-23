@@ -9,6 +9,11 @@
 [Learning Path 2 - Craft effective prompts for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/)
 
 
+[Labs](https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/tree/master/Instructions/Labs)
+
+
+
+
 ## Chatbots
 
 [ChatGPT](https://chatgpt.com/) von OpenAI. Das Original.
