@@ -1,25 +1,21 @@
-# MS-4005
-
-[Grab your Badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X2YPYM)
-
-[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?95F767161212439784)
-
----
-
+# MS-4007
 
 [Learning Path 1 - Get started with Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/)
-
+    
 - Video [The Copilot System: Explained by Microsoft](https://www.youtube.com/watch?v=E5g20qmeKpg)
 - Video [Plugins for Microsoft 365 Copilot](https://www.youtube.com/watch?v=kMXtwtdryKY)
 
+[Learning Path 2 - Discover how to drive enablement of Copilot for Microsoft 365 in your organization](https://learn.microsoft.com/en-us/training/paths/explore-how-drive-adoption-microsoft-copilot-m365/)
 
-[Learning Path 2 - Craft effective prompts for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/)
+- [Module 1 - Explore user enablement strategies for adopting Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/modules/explore-microsoft-adoption-framework/)
+- [Module 2 - Envision a successful adoption of Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/modules/phase-one-envision/)
+- [Module 3 - Onboard and empower your employees to use Copilot for Microsoft 365 efficiently](https://learn.microsoft.com/en-us/training/modules/phase-two-onboard/)
+- [Module 4 - Drive value and maximize the impact of Copilot for Microsoft 365 within your organization](https://learn.microsoft.com/en-us/training/modules/phase-three-drive-value/)
+- [Module 5 - Extend and optimize Copilot for Microsoft 365 in your organization](https://learn.microsoft.com/en-us/training/modules/extend-optimize-copilot-m365/)
 
 
-[Labs](https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/tree/master/Instructions/Labs)
 
-
-
+---
 
 ## Chatbots
 
@@ -120,4 +116,19 @@
     - [Module 5 - Generate images with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/)
     - [Module 6 - Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/use-own-data-azure-openai/)
     - [Module 7 - Fundamentals of Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)
+-->
+
+<!--
+# MS-4005
+
+    [Learning Path 1 - Get started with Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/)
+
+    - Video [The Copilot System: Explained by Microsoft](https://www.youtube.com/watch?v=E5g20qmeKpg)
+    - Video [Plugins for Microsoft 365 Copilot](https://www.youtube.com/watch?v=kMXtwtdryKY)
+
+
+    [Learning Path 2 - Craft effective prompts for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/)
+
+
+    [Labs](https://github.com/MicrosoftLearning/MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365/tree/master/Instructions/Labs)
 -->
