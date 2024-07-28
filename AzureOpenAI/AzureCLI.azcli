@@ -4,9 +4,10 @@ $subscriptionId = 'fa366244-df54-48f8-83c2-e1739ef3c4f1'
 az account set --subscription $subscriptionId
 
 az login
+az account show --query "{Subscription:id,Name:name,User:user.name}" --output table
 
-az group list --query "[].{Name:name,Location:location}" --output table
-$rgName = 'RG-OpenAI'
+az group list --query "sort_by([].{Name:name,Location:location}, &Name)" --output table
+$rgName = 'rg-openai'
 $location = 'westeurope'
 
 az cognitiveservices account list --query "[].{Name:name,Kind:kind,resourceGroup:resourceGroup,Location:location,SKU:sku.name,Key1:key1,Key2:key2,Endpoint:properties.endpoint}" --output table
