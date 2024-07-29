@@ -1,6 +1,6 @@
 # *Informationen beschaffen und aufbereiten*
 
-# Quantenkryptografie in der Bank
+# Quantenkryptografie in der Firma
 
 Sie haben die Aufgabe, eine Präsentation über Quantenkryptografie zu halten. 
 Dazu müssen Sie sich zunächst in das Thema einarbeiten. 
@@ -11,7 +11,7 @@ Sie sollen die Potenziale und Risiken dieser neuen Technologie abschätzen.
 
 - Gegenüberstellung traditionelle Krypto - Quantenkrypto
 
-- Einsatzmöglichkeiten in der Bank, Grenzen und Risiken
+- Einsatzmöglichkeiten in der Firma, Grenzen und Risiken
 
 - Einführungsplan erarbeiten in drei Etappen
 

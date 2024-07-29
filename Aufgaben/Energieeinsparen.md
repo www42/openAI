@@ -1,8 +1,8 @@
 # *Planung und Organisation / kreative Texte*
 
-# Energie einsparen in der Bank
+# Energie einsparen in der Firma
 
-Sie haben die Aufgabe, neue Quellen zur weiteren Energieeinsparung in der Bank zu finden. Insbesondere soll die Kreativität der Mitarbeiter nutzbar gemacht werden. 
+Sie haben die Aufgabe, neue Quellen zur weiteren Energieeinsparung in der Firma zu finden. Insbesondere soll die Kreativität der Mitarbeiter nutzbar gemacht werden. 
 
 ## Aufgaben
 
