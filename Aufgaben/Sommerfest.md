@@ -1,14 +1,14 @@
 # *Planung und Organisation*
 
-# Sommerfest der Bank
+# Sommerfest der Firma
 
-Sie organisieren das diesjährige Sommerfest der Bank. 
-Das Fest soll im Garten der Bank stattfinden. Es wird ein Buffet geben und verschiedene Aktivitäten für die Kinder. 
+Sie organisieren das diesjährige Sommerfest der Firma. 
+Das Fest soll im Garten der Firma stattfinden. Es wird ein Buffet geben und verschiedene Aktivitäten für die Kinder. 
 Sie haben die Aufgabe, die Organisation des Festes zu planen und durchzuführen.
 
 ## Aufgaben
 
-- Einladung an die Mitarbeiter der Bank im Intranet
+- Einladung an die Mitarbeiter der Firma im Intranet
 
 - Ablaufplan für das Fest
 
