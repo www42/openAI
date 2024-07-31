@@ -1,6 +1,12 @@
 
-
 # AI-050 Develop Generative AI solutions with Azure OpenAI Service
+
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?3C1A9A703212647573)
+
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=MM2DNZ)
+
+[Get the presentation](pdf/)
+
 
 [Learning Path](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 
