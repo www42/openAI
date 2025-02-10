@@ -1,14 +1,6 @@
 
 # AI-050 Develop Generative AI solutions with Azure OpenAI Service
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?3C1A9A703212647573)
-
-[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=MM2DNZ)
-
-[Get the presentation](pdf/)
-
----
-
 [Learning Path](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 
 - [Module 1 - Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/)
@@ -18,12 +10,6 @@
 - [Module 5 - Generate images with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/)
 - [Module 6 - Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/use-own-data-azure-openai/)
 - [Module 7 - Fundamentals of Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)
-
-
-## Aktuell: Microsoft AI Skilling Week 2. September
-
-[AI Skilling Week: 5 Tage rund um KI. Kostenlos. Digital.](https://www.microsoft.com/de-de/aktionen/ai-skilling-week)
-
 
 
 
