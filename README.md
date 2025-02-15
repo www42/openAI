@@ -59,13 +59,11 @@
 
 [Microsoft Learn](https://learn.microsoft.com/en-us/training/) Landing Page
 
+[Ask Learn ](https://learn.microsoft.com/en-us/training/support/ask-learn-assistant-transparency-faq)
+
 [Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) Praktische (sic!) Assessments, z.B. [AI-050](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/).
 
 [Get skilled up and ready on Microsoft AI ](https://learn.microsoft.com/en-us/ai/) Microsoft Learn AI Hub
-
-[Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
-
-[Azure Cognitive Search documentation](https://learn.microsoft.com/en-us/azure/search/)
 
 [Azure Search OpenAI Demo](https://github.com/Azure-Samples/azure-search-openai-demo/)
 
