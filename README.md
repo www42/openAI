@@ -1,16 +1,5 @@
 
-# AI-050 Develop Generative AI solutions with Azure OpenAI Service
-
-[Learning Path](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
-
-- [Module 1 - Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/)
-- [Module 2 - Build natural language solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/build-language-solution-azure-openai/)
-- [Module 3 - Apply prompt engineering with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/)
-- [Module 4 - Generate code with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/generate-code-azure-openai/)
-- [Module 5 - Generate images with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/)
-- [Module 6 - Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/use-own-data-azure-openai/)
-- [Module 7 - Fundamentals of Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)
-
+# OpenAI und ChatGPT
 
 
 ## Chatbots
