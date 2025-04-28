@@ -12,7 +12,7 @@ Sie haben die Aufgabe, die Organisation des Festes zu planen und durchzuführen.
 
 - Ablaufplan für das Fest
 
-- Plan der Vorbereitingen in drei Etappen
+- Plan der Vorbereitungen in drei Etappen
 
 - Email an die Mitarbeiter
 
